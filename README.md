@@ -14,11 +14,13 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-✍️ Recent Blog Posts Activity:
-- [LeetCode: Problem #1 - Two Number Sum](https://cloudiosx.medium.com/leetcode-problem-1-two-number-sum-efb0dd1c213a)
-- [iOS: Beginner's Guide - UIKit (3/3)](https://cloudiosx.medium.com/day-3-polymorphism-typecasting-and-the-start-of-our-first-project-d146dd0d9636)
-- [iOS: Beginner's Guide - UIKit (2/3)](https://cloudiosx.medium.com/day-2-introduction-to-complex-data-types-686a0b94edf2)
-- [iOS: Beginner's Guide - UIKit (1/3)](https://cloudiosx.medium.com/ios-beginners-guide-uikit-222bc53c819f)
+<details>
+<summary>✍️ Recent Blog Posts Activity:</summary>
+* [LeetCode: Problem #1 - Two Number Sum](https://cloudiosx.medium.com/leetcode-problem-1-two-number-sum-efb0dd1c213a)
+* [iOS: Beginner's Guide - UIKit (3/3)](https://cloudiosx.medium.com/day-3-polymorphism-typecasting-and-the-start-of-our-first-project-d146dd0d9636)
+* [iOS: Beginner's Guide - UIKit (2/3)](https://cloudiosx.medium.com/day-2-introduction-to-complex-data-types-686a0b94edf2)
+* [iOS: Beginner's Guide - UIKit (1/3)](https://cloudiosx.medium.com/ios-beginners-guide-uikit-222bc53c819f)
+</details>
 
 ![John Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudiosx&hide=stars)
 
