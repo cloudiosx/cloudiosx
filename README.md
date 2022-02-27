@@ -17,6 +17,7 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 <details>
 <summary>✍️ Recent Blog Posts Activity:</summary>
 
+* [iOS: Table Views, Image Views, App Bundles & More…](https://cloudiosx.medium.com/ios-table-views-image-views-app-bundles-more-c415c3aa794d)
 * [LeetCode: Problem #1 - Two Number Sum](https://cloudiosx.medium.com/leetcode-problem-1-two-number-sum-efb0dd1c213a)
 * [iOS: Beginner's Guide - UIKit (3/3)](https://cloudiosx.medium.com/day-3-polymorphism-typecasting-and-the-start-of-our-first-project-d146dd0d9636)
 * [iOS: Beginner's Guide - UIKit (2/3)](https://cloudiosx.medium.com/day-2-introduction-to-complex-data-types-686a0b94edf2)
