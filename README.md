@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [John Kim](https://cloudiosx.github.io/portfolio-website/) :sunglasses:
+### I'm [John Kim](https://cloudiosx.github.io/portfolio-website/) :sunglasses:
 
 I am a software engineer and entrepreneur with a strong business track record, 4 years of experience working with the latest technology solutions, and skilled in full-stack web (JavaScript, React, Node.js, Python, SQL) and iOS (Swift, Xcode, UIKit) development.
 
