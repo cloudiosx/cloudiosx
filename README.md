@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [John Kim](https://cloudiosx.github.io/portfolio-website/) (23 y.o) ! :sunglasses:
+I'm [John Kim](https://cloudiosx.github.io/portfolio-website/) :sunglasses:
 
 I am a software engineer and entrepreneur with a strong business track record, 4 years of experience working with the latest technology solutions, and skilled in full-stack web (JavaScript, React, Node.js, Python, SQL) and iOS (Swift, Xcode, UIKit) development.
 
@@ -8,7 +8,7 @@ I am a software engineer and entrepreneur with a strong business track record, 4
 <br><br>
 John Kim brings hands-on, technical expertise in full stack and iOS application development and a proven record of cultivating new business opportunities worldwide. What sets him apart is his international experience. He is proficient in Korean and Mandarin Chinese and has worked in North America, Europe, Southeast Asia, and East Asia. In every city, he consistently builds a trusted reputation and forges connections with customers and partners from a broad diversity of backgrounds and industries.
 
-💡 I'm currently learning:
+👨‍💻 Programming Languages
 <br><br>
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
