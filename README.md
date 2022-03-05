@@ -46,7 +46,7 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 
 📊 Weekly Development Breakdown
 <br><br>
-![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username={cloudiosx}&theme=blue-green)
+![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudiosx&theme=blue-green)
 
 📱 Feel free to contact me:
 <br><br>
