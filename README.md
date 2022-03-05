@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm [John Kim](https://cloudiosx.github.io/portfolio-website/) :sunglasses:
+### I'm [John Kim](https://cloudiosx.github.io/portfolio-website/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 I am a software engineer and entrepreneur with a strong business track record, 4 years of experience working with the latest technology solutions, and skilled in full-stack web (JavaScript, React, Node.js, Python, SQL) and iOS (Swift, Xcode, UIKit) development.
 
@@ -12,7 +12,7 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 
 <hr>
 
-<h3>👨‍💻 Programming Languages & Tools</h3>
+<h3>💻 Programming Languages & Tools</h3>
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
