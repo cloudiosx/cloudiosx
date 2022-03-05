@@ -4,9 +4,13 @@ I'm [John Kim](https://cloudiosx.github.io/portfolio-website/) :sunglasses:
 
 I am a software engineer and entrepreneur with a strong business track record, 4 years of experience working with the latest technology solutions, and skilled in full-stack web (JavaScript, React, Node.js, Python, SQL) and iOS (Swift, Xcode, UIKit) development.
 
-<h3>👨‍💻 About Me</h3>
 <hr>
+
+<h3>👨‍💻 About Me</h3>
+
 John Kim brings hands-on, technical expertise in full stack and iOS application development and a proven record of cultivating new business opportunities worldwide. What sets him apart is his international experience. He is proficient in Korean and Mandarin Chinese and has worked in North America, Europe, Southeast Asia, and East Asia. In every city, he consistently builds a trusted reputation and forges connections with customers and partners from a broad diversity of backgrounds and industries.
+
+<hr>
 
 <h3>👨‍💻 Programming Languages & Tools</h3>
 
@@ -31,6 +35,8 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+<hr>
+
 <details>
 <summary>✍️ Recent Blog Posts Activity:</summary>
 
@@ -42,11 +48,15 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 
 </details>
 
+<hr>
+
 <h3>📊 Github Stats</h3>
 
 ![John Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudiosx&hide=stars)
 <br>
 ![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudiosx&theme=blue-green)
+
+<hr>
 
 <h3>📱 Contact Me</h3>
 
