@@ -44,7 +44,7 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 
 [![John Kim's Github stats](https://github-readme-stats.vercel.app/api?username=cloudiosx&hide=stars)](#)
 <br>
-[![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudiosx&theme=blue-green)](#)
+[![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudiosx&theme=blue-white)](#)
 
 <hr>
 
