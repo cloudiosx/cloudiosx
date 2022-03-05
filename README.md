@@ -48,7 +48,7 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 <h3>📝 Blog Posts</h3>
 
 <details>
-<summary>iOS</summary>
+<summary>iOS Development</summary>
 
 * [iOS: Asset Catalogs, UIButton, CALayer & More...](https://cloudiosx.medium.com/ios-asset-catalogs-uibutton-calayer-more-5b78fbdb2d5e)
 * [iOS: Table Views, Image Views, App Bundles & More...](https://cloudiosx.medium.com/ios-table-views-image-views-app-bundles-more-c415c3aa794d)
@@ -59,7 +59,7 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 </details>
 
 <details>
-<summary>Leetcode</summary>
+<summary>Data Structures & Algorithms</summary>
 
 * [LeetCode: Problem #2 - Validate Subsequence](https://cloudiosx.medium.com/leetcode-problem-2-validate-subsequence-34060d52b3e7)
 * [LeetCode: Problem #1 - Two Number Sum](https://cloudiosx.medium.com/leetcode-problem-1-two-number-sum-efb0dd1c213a)
