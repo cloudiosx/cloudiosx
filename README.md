@@ -37,24 +37,36 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 
 <hr>
 
-<details>
-<summary>✍️ Recent Blog Posts Activity:</summary>
+<h3>📊 Development Statistics</h3>
 
-* [iOS: Table Views, Image Views, App Bundles & More…](https://cloudiosx.medium.com/ios-table-views-image-views-app-bundles-more-c415c3aa794d)
-* [LeetCode: Problem #1 - Two Number Sum](https://cloudiosx.medium.com/leetcode-problem-1-two-number-sum-efb0dd1c213a)
+![John Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudiosx&hide=stars)
+<br>
+![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudiosx&theme=blue-green)
+
+<hr>
+
+<h3>📝 Articles</h3>
+
+<details>
+<summary>iOS Blog Posts</summary>
+
+* [iOS: Asset Catalogs, UIButton, CALayer & More...](https://cloudiosx.medium.com/ios-asset-catalogs-uibutton-calayer-more-5b78fbdb2d5e)
+* [iOS: Table Views, Image Views, App Bundles & More...](https://cloudiosx.medium.com/ios-table-views-image-views-app-bundles-more-c415c3aa794d)
 * [iOS: Beginner's Guide - UIKit (3/3)](https://cloudiosx.medium.com/day-3-polymorphism-typecasting-and-the-start-of-our-first-project-d146dd0d9636)
 * [iOS: Beginner's Guide - UIKit (2/3)](https://cloudiosx.medium.com/day-2-introduction-to-complex-data-types-686a0b94edf2)
 * [iOS: Beginner's Guide - UIKit (1/3)](https://cloudiosx.medium.com/ios-beginners-guide-uikit-222bc53c819f)
 
 </details>
 
-<hr>
-
-<h3>📊 Github Stats</h3>
-
-![John Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudiosx&hide=stars)
 <br>
-![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudiosx&theme=blue-green)
+
+<details>
+<summary>Leetcode Blog Posts</summary>
+
+* [LeetCode: Problem #2 - Validate Subsequence](https://cloudiosx.medium.com/leetcode-problem-2-validate-subsequence-34060d52b3e7)
+* [LeetCode: Problem #1 - Two Number Sum](https://cloudiosx.medium.com/leetcode-problem-1-two-number-sum-efb0dd1c213a)
+
+</details>
 
 <hr>
 
