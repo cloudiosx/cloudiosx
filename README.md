@@ -18,7 +18,8 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_Actions-276DC3?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Redux](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
@@ -38,7 +39,7 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 
 <h3>📊 Development Statistics</h3>
 
-![John Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudiosx&hide=stars)
+![John Kim's Github stats](https://github-readme-stats.vercel.app/api?username=cloudiosx&hide=stars)
 <br>
 ![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudiosx&theme=blue-green)
 
