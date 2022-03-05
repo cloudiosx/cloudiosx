@@ -4,11 +4,11 @@ I'm [John Kim](https://cloudiosx.github.io/portfolio-website/) :sunglasses:
 
 I am a software engineer and entrepreneur with a strong business track record, 4 years of experience working with the latest technology solutions, and skilled in full-stack web (JavaScript, React, Node.js, Python, SQL) and iOS (Swift, Xcode, UIKit) development.
 
-<h2>👨‍💻 About Me</h2>
+<h3>👨‍💻 About Me</h3>
 
 John Kim brings hands-on, technical expertise in full stack and iOS application development and a proven record of cultivating new business opportunities worldwide. What sets him apart is his international experience. He is proficient in Korean and Mandarin Chinese and has worked in North America, Europe, Southeast Asia, and East Asia. In every city, he consistently builds a trusted reputation and forges connections with customers and partners from a broad diversity of backgrounds and industries.
 
-<h2>👨‍💻 Programming Languages & Tools</h2>
+<h3>👨‍💻 Programming Languages & Tools</h3>
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,12 +42,13 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 
 </details>
 
-<h2>📊 Github Stats</h2>
+<h3>📊 Github Stats</h3>
 
 ![John Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudiosx&hide=stars)
+<br>
 ![John Kim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudiosx&theme=blue-green)
 
-<h2>📱 Contact Me</h2>
+<h3>📱 Contact Me</h3>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/john-kim-developer/)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://cloudiosx.medium.com/)
