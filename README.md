@@ -52,7 +52,18 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 <h3>📝 Blog Posts</h3>
 
 <details>
-<summary>iOS Development</summary>
+<summary>Introduction to iOS</summary>
+
+* [iOS Design Patterns](https://medium.com/gitconnected/ios-design-patterns-c2a37bac4468)
+* [Fundamental Design Pattern: ModelViewController](https://medium.com/@cloudiosx/fundamental-design-pattern-modelviewcontroller-7ab1ab5f695c)
+* [Fundamental Design Pattern: Delegation](https://medium.com/@cloudiosx/fundamental-design-pattern-delegation-521855f30224)
+* [Fundamental Design Pattern: Strategy](https://medium.com/@cloudiosx/fundamental-design-pattern-strategy-fe7d167027c6)
+* [Fundamental Design Pattern: Singleton](https://medium.com/@cloudiosx/fundamental-design-pattern-singleton-f2ad61ba062c)
+
+</details>
+
+<details>
+<summary>iOS: Fundamental Design Patterns</summary>
 
 * [iOS: Asset Catalogs, UIButton, CALayer & More...](https://cloudiosx.medium.com/ios-asset-catalogs-uibutton-calayer-more-5b78fbdb2d5e)
 * [iOS: Table Views, Image Views, App Bundles & More...](https://cloudiosx.medium.com/ios-table-views-image-views-app-bundles-more-c415c3aa794d)
