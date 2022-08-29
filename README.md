@@ -1,6 +1,4 @@
-### Hi there!
-
-### I'm [John Kim](https://cloudiosx.com) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+### Hi there! I'm [John Kim](https://cloudiosx.com) 
 
 I am a software engineer and entrepreneur with a strong business track record, 4 years of experience working with the latest technology solutions, and skilled in full-stack web (JavaScript, React, Node.js, Python, SQL) and iOS (Swift, Xcode, UIKit) development.
 
