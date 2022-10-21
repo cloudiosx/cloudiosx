@@ -47,40 +47,6 @@ John Kim brings hands-on, technical expertise in full stack and iOS application 
 
 <hr>
 
-<h3>📝 Blog Posts</h3>
-
-<details>
-<summary>Introduction to iOS</summary>
-
-* [iOS: Asset Catalogs, UIButton, CALayer & More...](https://cloudiosx.medium.com/ios-asset-catalogs-uibutton-calayer-more-5b78fbdb2d5e)
-* [iOS: Table Views, Image Views, App Bundles & More...](https://cloudiosx.medium.com/ios-table-views-image-views-app-bundles-more-c415c3aa794d)
-* [iOS: Beginner's Guide - UIKit (3/3)](https://cloudiosx.medium.com/day-3-polymorphism-typecasting-and-the-start-of-our-first-project-d146dd0d9636)
-* [iOS: Beginner's Guide - UIKit (2/3)](https://cloudiosx.medium.com/day-2-introduction-to-complex-data-types-686a0b94edf2)
-* [iOS: Beginner's Guide - UIKit (1/3)](https://cloudiosx.medium.com/ios-beginners-guide-uikit-222bc53c819f)
-
-</details>
-
-<details>
-<summary>iOS: Fundamental Design Patterns</summary>
-
-* [Fundamental Design Pattern: Singleton](https://medium.com/@cloudiosx/fundamental-design-pattern-singleton-f2ad61ba062c)
-* [Fundamental Design Pattern: Strategy](https://medium.com/@cloudiosx/fundamental-design-pattern-strategy-fe7d167027c6)
-* [Fundamental Design Pattern: Delegation](https://medium.com/@cloudiosx/fundamental-design-pattern-delegation-521855f30224)
-* [Fundamental Design Pattern: ModelViewController](https://medium.com/@cloudiosx/fundamental-design-pattern-modelviewcontroller-7ab1ab5f695c)
-* [iOS Design Patterns](https://medium.com/gitconnected/ios-design-patterns-c2a37bac4468)
-
-</details>
-
-<details>
-<summary>Data Structures & Algorithms</summary>
-
-* [LeetCode: Problem #2 - Validate Subsequence](https://cloudiosx.medium.com/leetcode-problem-2-validate-subsequence-34060d52b3e7)
-* [LeetCode: Problem #1 - Two Number Sum](https://cloudiosx.medium.com/leetcode-problem-1-two-number-sum-efb0dd1c213a)
-
-</details>
-
-<hr>
-
 <h3>📱 Contact Me</h3>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/john-kim-developer/)
